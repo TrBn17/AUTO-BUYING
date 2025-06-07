@@ -1,5 +1,3 @@
-# AUTO-BUYING
-dự án cá nhân
 # 🛍️ Supreme Auto Buyer Bot
 
 **Tự động săn hàng Supreme Nhật Bản chỉ với một cú click!**
