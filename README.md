@@ -25,6 +25,7 @@ ui.py: Cung cấp giao diện người dùng thân thiện với Gradio, cho ph�
 
 ## 📂 Cấu trúc dự án
 
+```
 frontend/
 │
 ├── buy_product.py Script điều khiển mua hàng tự động từ A-Z
@@ -32,6 +33,8 @@ frontend/
 ├── .venv/ #Môi trường ảo Python
 ├── image.png #Ảnh hiển thị giao diện Gradio
 └── README.md #Tài liệu mô tả (file này)
+```
+
 ---
 
 ## 🚀 Cài đặt & sử dụng
